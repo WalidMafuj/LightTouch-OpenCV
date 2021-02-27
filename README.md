@@ -22,6 +22,9 @@ we built this python script for you.
 - [ ] saves X and Y position in txt file name x.txt & y.txt
 - [ ] we uses "mouse" module to set mosue position accoriding to x.txt y.txt . click accordingly
 
+### Working Video
+https://www.youtube.com/watch?v=a-89oZ5W-Ik
+
 ### If you need any help just open an issue.
 
 ## Thank You :) 
