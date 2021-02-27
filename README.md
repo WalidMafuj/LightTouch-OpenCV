@@ -4,8 +4,13 @@ we built this python script for you.
 
 ### HOW TO Run the program
 - [x] Install python . [may follow any youtube]
-- [x] Run the script and allow connection prompt.
-- [ ] Note: if you want to run this script in background you can make it formless ".exe" by converting this Python script [.py file] into an Executable file [.exe file.]
+- [x] Install "IP Cam" https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en in your smart phone.
+- [x] Tap start server on your smartphone.
+- [x] The app will provide you a IP link. Copy this link
+- [x] Open Main.py script and Find for "url = "http://192.168.0.3:8080/shot.jpg" " & just replace the link only . for example your link is xxx.xxx.x.x then the link will be http://xxx.xxx.x.x:8080/shot.jpg
+- [x] save the script. 
+- [x] - [x] Run "Main.py" script and allow "connection" prompt.
+####[[Note: if you want to run this script in background you can make it formless ".exe" by converting this Python script [.py file] into an Executable file [.exe file.] ]]
 
 ### Remote side
 - [x] Install python
