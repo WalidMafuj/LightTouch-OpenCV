@@ -2,8 +2,8 @@
 What if we could convert any ordinary display into a touch screen one using a useless smartphone camera.
 we built this python script for you.
 
-### Server side
-- [x] Copy "Host_windows-machine.py to the folder where you want to run cmd.
+### HOW TO Run the program
+- [x] Install python . [may follow any youtube]
 - [x] Run the script and allow connection prompt.
 - [ ] Note: if you want to run this script in background you can make it formless ".exe" by converting this Python script [.py file] into an Executable file [.exe file.]
 
