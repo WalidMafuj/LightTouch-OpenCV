@@ -18,6 +18,8 @@ we built this python script for you.
 - [x] Smartphone camera takes video stream of your display and sends the data to your computer though ip cam with wifi connection.
 - [x] then python script crops the video image into display part.
 - [x] then it converts into gray image and apply GaussianBlur so that it can easily distinguis different colors
+![plot1](https://user-images.githubusercontent.com/37979590/109395135-fdf77980-7954-11eb-9b02-842872103a8a.jpeg)
+![plot](https://user-images.githubusercontent.com/37979590/109395143-08197800-7955-11eb-9570-1c031364f037.jpeg)
 - [x] when any red light source with a range of color code is detected, it tries to detect the position of the source relative to display position
 - [ ] saves X and Y position in txt file name x.txt & y.txt
 - [ ] we uses "mouse" module to set mosue position accoriding to x.txt y.txt . click accordingly
@@ -25,8 +27,7 @@ we built this python script for you.
 ### Working Video
 https://www.youtube.com/watch?v=a-89oZ5W-Ik
 
-![plot1](https://user-images.githubusercontent.com/37979590/109395135-fdf77980-7954-11eb-9b02-842872103a8a.jpeg)
-![plot](https://user-images.githubusercontent.com/37979590/109395143-08197800-7955-11eb-9570-1c031364f037.jpeg)
+![BRAC-U](https://user-images.githubusercontent.com/37979590/109395193-4b73e680-7955-11eb-9372-5fd690aac06b.jpeg)
 
 
 ### If you need any help just open an issue.
