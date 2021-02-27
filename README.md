@@ -1,6 +1,6 @@
 # LightTouch-OpenCV || Tech Tussle 2021
-What if we could convert any ordinary display into a touch screen one using a useless smartphone camera.
-we built this python script for you.
+What if we could convert any ordinary display into a touch screen one using a Webcam or useless smartphone camera. Our idea is to convert projector screen of university to a Interactive touch screen. This will help faculties to teach students in whole new way. They will be able to draw figures on the projected screen over whiteboard. so that students can understand easily what faculty want to say. Teachers who are trying to engage their students of any age with chalk-and-talk are not going to further their education. Students who grew up connected to the Internet with knowledge and entertainment at their fingertips will simply disconnect from a dry lecture. Classroom Interactive boards are the answer to help teachers make lessons relatable to their students and to help students stay connected to what they need for their future.Touch screen interactive whiteboard are a more efficient way to display, brainstorm and teach than traditional blackboards. 
+### we built this python script for you.
 
 ### HOW TO Run the program
 - [x] Install python . [may follow any youtube]
