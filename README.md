@@ -25,6 +25,10 @@ we built this python script for you.
 ### Working Video
 https://www.youtube.com/watch?v=a-89oZ5W-Ik
 
+![plot1](https://user-images.githubusercontent.com/37979590/109395135-fdf77980-7954-11eb-9b02-842872103a8a.jpeg)
+![plot](https://user-images.githubusercontent.com/37979590/109395143-08197800-7955-11eb-9570-1c031364f037.jpeg)
+
+
 ### If you need any help just open an issue.
 
 ## Thank You :) 
