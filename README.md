@@ -9,12 +9,19 @@ we built this python script for you.
 - [x] The app will provide you a IP link. Copy this link
 - [x] Open Main.py script and Find for "url = "http://192.168.0.3:8080/shot.jpg" " & just replace the link only . for example your link is xxx.xxx.x.x then the link will be http://xxx.xxx.x.x:8080/shot.jpg
 - [x] save the script. 
-- [x] - [x] Run "Main.py" script and allow "connection" prompt.
-####[[Note: if you want to run this script in background you can make it formless ".exe" by converting this Python script [.py file] into an Executable file [.exe file.] ]]
+- [x] Run "Main.py" script and allow "connection" prompt.
+- [x] Then keep you mobile in such a position so that its camera can cover your monitor or display.
+- [x] Use a red led to move/touch/click/control your computer/laptop screen.
+- [ ] [[Note: if you want to run this script in background you can make it formless ".exe" by converting this Python script [.py file] into an Executable file [.exe file.] ]]
 
-### Remote side
-- [x] Install python
-- [x] If you are using android then use "termux" app or anyother terminal emulator. then run this command "pkg install python"
-- [x] Run "remote.py" by using this command "python remote.py" [Note: for linux or android devices use this command "cd [location of remote.py file]" to select the location of remote.py file. (eg. "cd /sdcard/download/remote.py")   ]
+### How does it work
+- [x] Smartphone camera takes video stream of your display and sends the data to your computer though ip cam with wifi connection.
+- [x] then python script crops the video image into display part.
+- [x] then it converts into gray image and apply GaussianBlur so that it can easily distinguis different colors
+- [x] when any red light source with a range of color code is detected, it tries to detect the position of the source relative to display position
+- [ ] saves X and Y position in txt file name x.txt & y.txt
+- [ ] we uses "mouse" module to set mosue position accoriding to x.txt y.txt . click accordingly
+
+### If you need any help just open an issue.
 
 ## Thank You :) 
